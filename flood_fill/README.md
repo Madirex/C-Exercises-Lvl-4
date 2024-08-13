@@ -2,7 +2,7 @@ Exercise
 
         Assignment name  : flood_fill
         Expected files   : *.c, *.h
-        Allowed functions: -
+        Allowed functions: None
         --------------------------------------------------------------------------------
 
         Write a function that takes a char ** as a 2-dimensional array of char, a
