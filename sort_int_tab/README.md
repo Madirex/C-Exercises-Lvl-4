@@ -2,7 +2,7 @@ Exercise
 
         Assignment name  : sort_int_tab
         Expected files   : sort_int_tab.c
-        Allowed functions:
+        Allowed functions: None
         --------------------------------------------------------------------------------
 
         Write the following function:
