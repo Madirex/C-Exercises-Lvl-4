@@ -4,7 +4,7 @@ Some C exercises - Difficulty: 4
 ## flood_fill
         Assignment name  : flood_fill
         Expected files   : *.c, *.h
-        Allowed functions: -
+        Allowed functions: None
         --------------------------------------------------------------------------------
 
         Write a function that takes a char ** as a 2-dimensional array of char, a
@@ -273,7 +273,7 @@ Some C exercises - Difficulty: 4
 ## sort_int_tab
         Assignment name  : sort_int_tab
         Expected files   : sort_int_tab.c
-        Allowed functions:
+        Allowed functions: None
         --------------------------------------------------------------------------------
 
         Write the following function:
