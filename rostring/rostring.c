@@ -1,5 +1,4 @@
 #include <unistd.h>
-#include <stdlib.h>
 
 int is_separation_char(char c)
 {
